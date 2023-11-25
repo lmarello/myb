@@ -1,7 +1,7 @@
 export { Bun } from "./Bun";
 export { BunBottom } from "./BunBottom";
 export { BunTop } from "./BunTop";
-export { Burguer } from "./Burguer";
+export { Burger } from "./Burger";
 export { Cheese } from "./Cheese";
 export { Cucumber } from "./Cucumber";
 export { Cutlet } from "./Cutlet";
