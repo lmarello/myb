@@ -1,0 +1,25 @@
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: var(--primary-black)
+}
+
+.subtitle {
+    font-family: "Exo 2", sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: var(--indigo-indigo-600)
+}
+
+.buttonContainer {
+    margin-top: 40px;
+}
