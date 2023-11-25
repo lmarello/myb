@@ -4,13 +4,30 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 .title {
     font-family: "Exo 2", sans-serif;
-    font-weight: 900;
-    text-transform: uppercase;
+
+}
+
+.titleFirstRow {
+    display: block;
+    font-weight: 200;
+    font-size: 48px;
     color: var(--primary-black)
+}
+
+.titleSecondRow {
+    display: block;
+    font-weight: 900;
+    font-size: 72px;
+    text-transform: uppercase;
+    color: var(--primary-danger)
 }
 
 .subtitle {

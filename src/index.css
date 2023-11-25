@@ -2,8 +2,16 @@
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  /* COLORS */
   --primary-primary: #5243C2;
   --primary-danger: #FF4D4F;
   --primary-black: #1F2939;
   --indigo-indigo-600: #473AA6;
+
+}
+
+body {
+  background: #fff8eb;
+
 }
